@@ -1,0 +1,11 @@
+{
+  "name": "yosu-ai",
+  "owner": { "name": "yosu-ai", "url": "https://github.com/yosu-ai" },
+  "plugins": [
+    {
+      "name": "desktop-ssh-unlock",
+      "source": "./plugins/desktop-ssh-unlock",
+      "description": "解锁 Claude Desktop 3p 模式下的 SSH 远程环境(mac/windows)"
+    }
+  ]
+}

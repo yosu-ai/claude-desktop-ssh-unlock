@@ -1,0 +1,7 @@
+{
+  "name": "desktop-ssh-unlock",
+  "version": "1.0.0",
+  "description": "解锁 Claude Desktop 第三方推理(3p/网关)模式下被隐藏的 SSH 远程环境。提供 /patch-desktop 命令、跨平台补丁脚本与说明。",
+  "author": { "name": "Gravora LLC", "email": "contact@gravora.xyz" },
+  "keywords": ["claude-desktop", "ssh", "3p", "gateway", "patch"]
+}
